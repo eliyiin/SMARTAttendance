@@ -1,0 +1,8 @@
+{
+  "name": "StudentApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ef485006"
+}
